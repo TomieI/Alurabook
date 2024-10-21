@@ -93,3 +93,12 @@
  .cabeçalho__menu-hamburguer {
     display: none;
   }
+
+.opções_botão {
+    display: none;
+  }
+
+.opções_botão:checked ~ .lista-menu {
+    display: block;
+    width: auto;
+  }
