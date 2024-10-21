@@ -69,7 +69,7 @@
 
 .container__titulo {
   font-weight: 400;
-  display: none;
+  display: flex;
 }
 
 .container__titulo--negrito {
